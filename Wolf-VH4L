@@ -1,0 +1,13 @@
+    <attachments chance="1.0" name="hats2Army">
+			<item name="Headdress_Wolf" chance="1.0" />
+		</attachments>
+		
+		<attachments chance="1.0" name="bags2Army">
+			<item name="GhillieSuit_Winter" chance="1.0" />
+		</attachments>
+
+
+Add these to your cfgrandompresets.xml 
+
+After editing always good to check https://www.freeformatter.com or any other validator site 
+to make sure there are no mistakes in your .xml or.json files. Thank you and good luck.  
